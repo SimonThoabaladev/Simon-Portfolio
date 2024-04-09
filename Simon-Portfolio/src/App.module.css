@@ -1,0 +1,10 @@
+/* Import vars.css */
+@import "./vars.css";
+.App {
+    background-color: #09033f;
+    width: 100%;
+    height: 100%;
+
+    
+}
+

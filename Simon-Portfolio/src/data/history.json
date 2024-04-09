@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Network Engineer",
+      "organisation": "LDF",
+      "startDate": "Feb, 2023",
+      "endDate": "May, 2023",
+      "experiences": ["MY ROLE WAS TO DESIGHN, IMPLEMENT, AND MAINTAIN NETWORK INFRASTRUCTURE TO ENSURE SEAMLESS CONNECTIVITY AND OPTIMAL PERFORMANCE ACROSS MALTIPLE DEPATMENTS. CONFIGURING AND TROUBLESHOOTING ROUTERS, SWITCHES FIREWALLS, TO SUPPORT THE ORGANISATION’S OPERATION.", "Reduced load times by 50%"]
+      
+    },
+    {
+      "role": "UI Designer",
+      "organisation": "Mirosoft",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"]
+      
+    },
+    {
+      "role": "E-learning Intern",
+      "organisation": "CodePool sub: Infocafe",
+      "startDate": "Apr, 2023",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "Worked on Infocafe E-learning",
+        "Develop Hybrid Apps"
+      ]
+      
+    }
+  ]

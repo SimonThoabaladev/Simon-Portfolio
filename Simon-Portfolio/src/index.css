@@ -1,0 +1,11 @@
+/* Styling every element on the web page targeting every element */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", Arial, Helvetica, sans-serif;
+  }
+  /* Scrolling down smoothly */
+  html{
+    scroll-behavior: smooth;
+  }

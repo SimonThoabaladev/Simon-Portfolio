@@ -1,0 +1,14 @@
+:root{
+    /* Colors */
+    /* It can be renamed later its a bit easier */
+    /* Text color */
+    --color-text: #fff;
+    --color-primary:#576cbc;
+    --color-secondary:#19376d;
+    --color-dark: #02b2447;
+    --color-bg: #04152d;
+
+    /* Fonts */
+    --font-roboto: "Roboto";
+}
+
